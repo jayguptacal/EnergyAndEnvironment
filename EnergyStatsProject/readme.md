@@ -10,5 +10,5 @@
 - Overall the focus is on finding out the insights for various energy usage and generation
 
 ## Jupyter Notebooks for various phases
-*# For Data Wrangling Notebook, click here ![Energy Stats Data Wrangling Notebook](/EnergyStatsProject/Energy_Stats_DataWrangling.ipynb){:target="_blank"}
-*# For Exploratory Data Analysis and Insights Notebook, click here ![Energy Stats Data Analysis and Insights Notebook](/EnergyStatsProject/Energy_Stats_EDA.ipynb){:target="_blank"}
+- For Data Wrangling Notebook, click here ![Energy Stats Data Wrangling Notebook](/EnergyStatsProject/Energy_Stats_DataWrangling.ipynb){:target="_blank" rel="noopener"}
+- For Exploratory Data Analysis and Insights Notebook, click here ![Energy Stats Data Analysis and Insights Notebook](/EnergyStatsProject/Energy_Stats_EDA.ipynb){:target="_blank" rel="noopener"}
