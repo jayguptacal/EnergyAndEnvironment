@@ -12,7 +12,7 @@
 ## Jupyter Notebooks for various phases
 I follow the the Data Science Method (DSM) process to do the projects. And based on the project, I decide what phases will be applicable for the project. Each phase is clearly shown in the below image:
 
-![](/image/MLmethodology.jpg)
+![](/jayguptacal/portfolio/tree/main/image)
 
 - For Data Wrangling Notebook, click here ![Energy Stats Data Wrangling Notebook](/EnergyStatsProject/Energy_Stats_DataWrangling.ipynb){:target="_blank" rel="noopener"}
 - For Exploratory Data Analysis and Insights Notebook, click here ![Energy Stats Data Analysis and Insights Notebook](/EnergyStatsProject/Energy_Stats_EDA.ipynb){:target="_blank" rel="noopener"}
