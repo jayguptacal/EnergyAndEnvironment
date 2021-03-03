@@ -15,4 +15,4 @@ I follow the the Data Science Method (DSM) process to do the projects. And based
 <img src="https://github.com/jayguptacal/portfolio/blob/main/image/MLmethodology.jpg">
 
 - For Data Wrangling Notebook, click here ![Energy Stats Data Wrangling Notebook](/EnergyStatsProject/Energy_Stats_DataWrangling.ipynb)
-- For Exploratory Data Analysis and Insights Notebook, click here ![Energy Stats Data Analysis and Insights Notebook](/EnergyStatsProject/Energy_Stats_EDA.ipynb){:target="_blank"}
+- For Exploratory Data Analysis and Insights Notebook, click here ![Energy Stats Data Analysis and Insights Notebook](/EnergyStatsProject/Energy_Stats_EDA.ipynb)
