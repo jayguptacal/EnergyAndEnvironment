@@ -1,5 +1,9 @@
 # Details about the Energy Stats Project
 
+<p align="center">
+<img src="https://github.com/jayguptacal/portfolio/blob/main/image/EnergyStasWelcome.jpg">
+</p>
+
 ## Data Source 
 - Energy consumption and production statistics data has been provided by United Nations Statistics, a division on the UN Data site and it is available on Kaggle for data science projects
 
@@ -10,14 +14,15 @@
 - Overall the focus is on finding out the insights for various energy usage and generation
 
 ## Check-Out Jupyter Notebooks For Different Steps of Machine Learning Modeling ##
-<p align="center">
-<img src="https://github.com/jayguptacal/portfolio/blob/main/image/EnergyStasWelcome.jpg">
-</p>
 
-If you are interested in details of each phase, please refer the Jupyter Notebooks here one by one. While clicking on the below links for the detailed working of this project, please ensure that you open in a new window by right-clicking and then opening it so that this summary notebook remains open. The data sometimes may not load properly in the new window, so please reload it until it shows properly.
+While clicking on the below links for the detailed working of this project, please ensure that you open in a new window by right-clicking and then opening it so that this summary notebook remains open. The data sometimes may not load properly in the new window, so please reload it until it shows properly.
 
-- For Data Wrangling Notebook, click here ![Energy Stats Data Wrangling Notebook](/EnergyStatsProject/Energy_Stats_DataWrangling.ipynb)
-- For Exploratory Data Analysis and Insights Notebook, click here ![Energy Stats Data Analysis and Insights Notebook](/EnergyStatsProject/Energy_Stats_EDA.ipynb)
+<img src="https://github.com/jayguptacal/portfolio/blob/main/image/bannerOpenNotebooks.jpg">
+
+* For Data Wrangling Notebook, click here ![Energy Stats Data Wrangling Notebook](/EnergyStatsProject/Energy_Stats_DataWrangling.ipynb)
+* For Exploratory Data Analysis and Insights Notebook, click here ![Energy Stats Data Analysis and Insights Notebook](/EnergyStatsProject/Energy_Stats_EDA.ipynb)
+
+==>> While clicking on the above links for the detailed working of this project, please ensure that you open in a new window by right-clicking and then opening it so that this summary notebook remains open. The data sometimes may not load properly in the new window, so please reload it until it shows properly.
 
 ## Check-Out Jay Gupta's Portfolio for Other Machine Learning Projects ##
 <p align="center">
