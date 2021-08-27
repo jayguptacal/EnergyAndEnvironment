@@ -1,7 +1,7 @@
 # Problem Identification: Using Support Vector Machine (SVM) Regression, Predict Concrete Compressive Strength based on Concrete Slump Tests
 
 <p align="center">
-<img src="https://github.com/jayguptacal/portfolio/blob/main/image/housePredAppWelcome.jpg">
+<img src="https://github.com/jayguptacal/portfolio/blob/main/image/SVMconcreteSlumpReg_welcome.jpg">
 </p>
 
 ## Introduction ##
