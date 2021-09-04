@@ -1,7 +1,7 @@
 # Predict Penguin Species based on the Penguin's Body Measurements Using Decision Tree Classifier, Supervised Machine Learning Algorithm
 
 <p align="center">
-<img src="https://github.com/jayguptacal/portfolio/blob/main/image/knnProjectwelcome.jpg">
+<img src="https://github.com/jayguptacal/portfolio/blob/main/image/penguinbanner_welcome.jpg">
 </p>
 
 ## Introduction
